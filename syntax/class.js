@@ -10,7 +10,7 @@ class Person {
 }
 
 const noh = new Person('noh', 18);
-console.log(noh.name);
+console.log(noh.name); 
 console.log(noh.age);
 noh.speak();
 
